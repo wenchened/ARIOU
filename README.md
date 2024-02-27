@@ -3,7 +3,7 @@
 
 
 <center>
-<img src='../ARIoU_structure.pdf'>
+<pdf src='../ARIoU_structure.pdf'>
 </center>
 
 </div>
