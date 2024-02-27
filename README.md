@@ -1,9 +1,9 @@
 <div align="center">
-<h1> NoiseDet </h1>
-<h3>ARIoU: Anchor-Free Rotation-Decoupling IoU-based Optimization for 3D Object Detection</h3>
+<h1>ARIoU: Anchor-Free Rotation-Decoupling IoU-based Optimization for 3D Object Detection </h1>
+
 
 <center>
-<img src='ARIoU_structure.pdf'>
+<img src='../ARIoU_structure.pdf'>
 </center>
 
 </div>
